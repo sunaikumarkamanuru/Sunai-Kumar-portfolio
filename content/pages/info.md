@@ -234,6 +234,7 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+    title: skills
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
