@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I’m a developer
-    subtitle: "Hello!\_I'm\_Kamanuru Sunai Kumar,\_a\_dedicated\_and\_enthusiastic\_student\_currently\_pursuing\_my\_Btech\_in\_CSE\_at\_SRM University.\_My\_goal\_is\_to\_apply\_my\_knowledge\_and\_creativity\_to\_solve\_real-world\_problems\_and\_contribute\_to\_the\_ever-evolving\_tech\_landscape"
+    subtitle: "Hello!\_I'm\_Kamanuru Sunai Kumar,\_ a\_dedicated\_and\_enthusiastic\_student\_currently\_pursuing\_my\_Btech\_in\_CSE\_at\_SRM University.\_My\_goal\_is\_to\_apply\_my\_knowledge\_and\_creativity\_to\_solve\_real-world\_problems\_and\_contribute\_to\_the\_ever-evolving\_tech\_landscape"
     styles:
       self:
         height: auto
