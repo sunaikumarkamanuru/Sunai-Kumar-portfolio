@@ -60,7 +60,8 @@
                 "label": "Contact",
                 "url": "kamanurusunaikumar@gmail.com",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "mail"
             },
             {
                 "type": "Link",
