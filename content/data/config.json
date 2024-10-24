@@ -61,7 +61,8 @@
                 "url": "kamanurusunaikumar@gmail.com",
                 "altText": "",
                 "showIcon": true,
-                "icon": "mail"
+                "icon": "mail",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
